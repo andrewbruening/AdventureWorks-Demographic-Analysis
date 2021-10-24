@@ -19,12 +19,12 @@ This readme includes various screenshots, but you can view the actual dashboard 
 
 
 ## Approach
-1. The pyodbc package was used to connect to the WWI database and query via python. 
-2. First, SQL was used to create the **'productdf'** dataframe which detailed qualitative and quantitative data at the granularity level of Stock Item ID. We'd like to see a breakdown of sales success per category>subcategory>product>size/color.
-3. Next, SQL was then used to create **'timedf'** which will compare transformations of revenue and profit over time.
+1. The pyodbc package was used to connect to the AdventureWorks database and query in python. 
+2. Since we'll be importing our data to Tableau, it's in our best interests to work from one large dataframe. This isn't always possible, but we can take advantage of the opportunity here with **'custdf'**
+3. There wasn't much cleaning to be done, but I did need to convert the **BirthDate** column to a brand new **Age** column. I wrote a custom function and used the difference between today's date and BirthDate to make Age.
 4. Regex was implemented to standardize StockItemName in **'productdf'**, and to categorize it in **'timedf'**.
-5. And finally, the two dataframes were exported from Python and imported to Tableau. 
-6. The complete dashboard features hover tooltips on most graphics and text boxes.
+5. The two dataframes were exported from Python, a few dashboard elements were designed in Figma, then everything was imported to Tableau. 
+6. The complete [dashboard] features hover tooltips on most graphics and text boxes.
  
 ![](Dashboard_Screenshots/tooltip_gif.gif)
 
@@ -63,4 +63,5 @@ This readme includes various screenshots, but you can view the actual dashboard 
 [Tableau]: https://public.tableau.com/app/profile/andrew.bruening
 [Github]: https://github.com/andrewbruening
 [here]: https://public.tableau.com/views/AdventureWorks2019/NADB?:language=en-US&:display_count=n&:origin=viz_share_link
+[dashboard]: https://public.tableau.com/views/AdventureWorks2019/NADB?:language=en-US&:display_count=n&:origin=viz_share_link
 [database]: https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
