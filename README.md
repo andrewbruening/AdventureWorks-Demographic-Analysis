@@ -30,21 +30,46 @@ This readme includes various screenshots, but you can view the actual dashboard 
 
 
 ## Data Insights
-- **New products; new priorities:** 
-    In 2016, we added 8 new products in a brand new Candy category. We may need to reconsider how we chose to allocate our resources. It's likely that our ad spend, human resources, and social media efforts were redistributed to promote this new array of products. As proven by our steep decline, our current arrangement is unsustainable. *(see Line Graph)*
+**Demographics**
+Our analysis points to a predominantly family-focused, upper middle class population who are likely to have multiple children and live in the Pacific Northwest. Genders are equally represented, slightly favoring married couples, and strongly favoring a college education.
 
-    Is the new Candy category spreading our resources too thin?
+**Age**
+The age range of 40-65 is particularly responsive to Facebook Ads but is most likely not using TikTok or Instagram. In order to target this population properly via Facebook:
 
-    Profit per product can be seen in this box plot to evaluate the efficacy of the Candy category as a whole. A higher concentration of points near the LQ is not a great indication for the success of these products, but more data points would be necessary to reach a more accurate conclusion. *(see **i bubble** on Dashboard Home Sidebar)*
-     
-![](Dashboard_Screenshots/home_with_i_bubble.png)
+    1. Create 1-2% lookalike audiences via Facebook Ads from an email list, or from the followers of competitors like REI, MEC, and Cannondale. 
 
-- **Q3 is Crucial:**
-    One key point to note about our metrics is that they've been calculated based only on the first two quarters of 2016, but all four quarters of previous years. This only partially excuses our sales sums. We are still seeing downward trends in all product categories - the steepest we've seen thus far.
+    2. These audiences should match at least 1000 people in the market, and be combined with detailed targeting on the ad set level for use in Messages or Lead Generation campaigns.
 
-    Identifying problem areas such as our dismal unit margin or a lack of resources in other key departments is pivotal for 3rd and 4th quarter improvement. *(see **i bubble** on Line Graph Sidebar)*
+    3. A/B test on the creative level with casual family-oriented biking imagery and copy. 
+
+    4. These will be top-of-funnel campaigns, so cost will be measured based on CPM.
+
+
+Sales History
+While 77% own cars, car ownership and bike ownership are not mutually exclusive, and many customers may ride bikes recreationally or for short-distance commutes.
      
 ![](Dashboard_Screenshots/line_with_i_bubble.png)
+
+**Income** 
+We know that our clientele is largely represented by individuals in the upper middle class. They make purchases not only for themselves, but for their family members as well.
+
+• Marketing content can be primarily geared toward biking imagery with a mention of time-sensitive promotions on additional accessories, or promo codes for "afterthought" products. 
+
+• Families may be interested in deals that include travel bike racks and group purchases.
+
+
+**Location**
+Destination-specific content can be A/B tested on the creative level, for both weekend adventures and casual city commutes.
+
+• Imagery featuring recognizable locations may pique the interest of top-of-funnel colder customers (Crissy Field, Mount Rainier, etc.)
+
+• PNW cities like San Francisco, Portland, and Vancouver are known to be well-traveled by commuters riding bikes to-and-from work, which surely makes up a considerable portion of Road Bike and Touring Bike purchases.
+
+• The Seattle to Portland (STP) Bicycle Classic is one of the largest recreational bike rides in the country. Each year, thousands of riders participate in this multi-day event. With 77% of our customers in the PNW, the STP poses a potential partnership opportunity, or at the very least, viable inspiration for advertisements.
+
+
+
+
 - **Our contribution margins aren't contributing enough:**
     The standard markup for individual retail products is 50%. In previous years, we've exceeded that number at an average margin of 54%. In 2016, we averaged a troublesome 25%. 
 
