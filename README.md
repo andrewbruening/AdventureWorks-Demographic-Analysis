@@ -12,7 +12,7 @@
 ## Wide World Importers
 **WWI is a wholesale novelty goods importer and distributor operating from the San Francisco bay area**
  
- ![](Dashboard_Screenshots/tooltip_gif.gif)
+![](Dashboard_Screenshots/dash.png)
  Here's a link to the SQL [database] from Microsoft
 
 This readme includes various screenshots, but you can view the actual dashboard [here]
@@ -24,9 +24,10 @@ This readme includes various screenshots, but you can view the actual dashboard 
 3. Next, SQL was then used to create **'timedf'** which will compare transformations of revenue and profit over time.
 4. Regex was implemented to standardize StockItemName in **'productdf'**, and to categorize it in **'timedf'**.
 5. And finally, the two dataframes were exported from Python and imported to Tableau. 
-6. The complete dashboard features three pages via sidebar navigation buttons, modular visualizations per filter parameters, and hover tooltips on most graphics and text boxes.
+6. The complete dashboard features hover tooltips on most graphics and text boxes.
  
-![](Dashboard_Screenshots/dash.png)
+![](Dashboard_Screenshots/tooltip_gif.gif)
+
 
 ## Data Insights
 - **New products; new priorities:** 
