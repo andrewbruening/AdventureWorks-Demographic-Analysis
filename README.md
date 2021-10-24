@@ -30,11 +30,17 @@ This readme includes various screenshots, but you can view the actual dashboard 
 
 
 ## Data Insights
-**Demographics**
-Our analysis points to a predominantly family-focused, upper middle class population who are likely to have multiple children and live in the Pacific Northwest. Genders are equally represented, slightly favoring married couples, and strongly favoring a college education.
+**Demographics:** Our analysis points to a predominantly family-focused, upper middle class population who are likely to have multiple children and live in the Pacific Northwest. Genders are equally represented, slightly favoring married couples, and strongly favoring a college education.
 
-**Age**
-The age range of 40-65 is particularly responsive to Facebook Ads but is most likely not using TikTok or Instagram. In order to target this population properly via Facebook:
+**Location:** Destination-specific content can be A/B tested on the creative level, for both weekend adventures and casual city commutes.
+
+    1. Imagery featuring recognizable locations may pique the interest of top-of-funnel colder customers (Crissy Field, Mount Rainier, etc.)
+
+    2.  PNW cities like San Francisco, Portland, and Vancouver are known to be well-traveled by commuters riding bikes to-and-from work, which surely makes up a considerable portion of Road Bike and Touring Bike purchases.
+
+    3. The Seattle to Portland (STP) Bicycle Classic is one of the largest recreational bike rides in the country. Each year, thousands of riders participate in this multi-day event. With 77% of our customers in the PNW, the STP poses a potential partnership opportunity, or at the very least, viable inspiration for advertisements.
+
+**Age:** The age range of 40-65 is particularly responsive to Facebook Ads but is most likely not using TikTok or Instagram. In order to target this population properly via Facebook:
 
     1. Create 1-2% lookalike audiences via Facebook Ads from an email list, or from the followers of competitors like REI, MEC, and Cannondale. 
 
@@ -44,43 +50,14 @@ The age range of 40-65 is particularly responsive to Facebook Ads but is most li
 
     4. These will be top-of-funnel campaigns, so cost will be measured based on CPM.
 
+**Sales History:** While 77% own cars, car ownership and bike ownership are not mutually exclusive, and many customers may ride bikes recreationally or for short-distance commutes.
 
-Sales History
-While 77% own cars, car ownership and bike ownership are not mutually exclusive, and many customers may ride bikes recreationally or for short-distance commutes.
-     
-![](Dashboard_Screenshots/line_with_i_bubble.png)
-
-**Income** 
-We know that our clientele is largely represented by individuals in the upper middle class. They make purchases not only for themselves, but for their family members as well.
+**Income:** We know that our clientele is largely represented by individuals in the upper middle class. They make purchases not only for themselves, but for their family members as well.
 
 • Marketing content can be primarily geared toward biking imagery with a mention of time-sensitive promotions on additional accessories, or promo codes for "afterthought" products. 
 
 • Families may be interested in deals that include travel bike racks and group purchases.
 
-
-**Location**
-Destination-specific content can be A/B tested on the creative level, for both weekend adventures and casual city commutes.
-
-• Imagery featuring recognizable locations may pique the interest of top-of-funnel colder customers (Crissy Field, Mount Rainier, etc.)
-
-• PNW cities like San Francisco, Portland, and Vancouver are known to be well-traveled by commuters riding bikes to-and-from work, which surely makes up a considerable portion of Road Bike and Touring Bike purchases.
-
-• The Seattle to Portland (STP) Bicycle Classic is one of the largest recreational bike rides in the country. Each year, thousands of riders participate in this multi-day event. With 77% of our customers in the PNW, the STP poses a potential partnership opportunity, or at the very least, viable inspiration for advertisements.
-
-
-
-
-- **Our contribution margins aren't contributing enough:**
-    The standard markup for individual retail products is 50%. In previous years, we've exceeded that number at an average margin of 54%. In 2016, we averaged a troublesome 25%. 
-
-    One identifiable weak point is our USB category. *(see **i bubble** on Scatter Plot Sidebar)*
-    
-    This raises a few questions: 
-	- What was the logic behind the price point of USB products? 
-	- Were they part of a promotion?
-	- Was this part of a loss leader strategy?
-     
-![](Dashboard_Screenshots/scatter_with_i_bubble.png)
 ## See the complete interactive dashboard [here]
 
 </details>
