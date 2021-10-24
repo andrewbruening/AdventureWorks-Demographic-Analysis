@@ -21,9 +21,8 @@ This readme includes various screenshots, but you can view the actual dashboard 
 1. The pyodbc package was used to connect to the AdventureWorks database and query in python. 
 2. Since we'll be importing our data to Tableau, it's in our best interests to work from one large dataframe. This isn't always possible, but we can take advantage of the opportunity here with **'custdf'**
 3. There wasn't much cleaning to be done, but I did need to convert the **BirthDate** column to a brand new **Age** column. I wrote a custom function and used the difference between today's date and BirthDate to make Age.
-4. Regex was implemented to standardize StockItemName in **'productdf'**, and to categorize it in **'timedf'**.
-5. The two dataframes were exported from Python, a few dashboard elements were designed in Figma, then everything was imported to Tableau. 
-6. The complete [dashboard] features hover tooltips on most graphics and text boxes.
+4. A few dashboard elements were designed in Figma, then everything was imported to Tableau for dashboard creation. 
+5. The complete [dashboard] features hover tooltips on most graphics and text boxes.
  
 ![](Dashboard_Screenshots/tooltip_gif.gif)
 
@@ -31,11 +30,11 @@ This readme includes various screenshots, but you can view the actual dashboard 
 ## Data Insights
 **Demographics:** Our analysis points to a predominantly family-focused, upper middle class population who are likely to have multiple children and live in the Pacific Northwest. Genders are equally represented, slightly favoring married couples, and strongly favoring a college education.
 
-**Location:** Destination-specific content can be A/B tested on the creative level, for both weekend adventures and casual city commutes.
+**Location:** Destination-specific content can be A/B tested on the creative level.
 
     1. Imagery featuring recognizable locations may pique the interest of top-of-funnel colder customers (Crissy Field, Mount Rainier, etc.)
 
-    2.  PNW cities like San Francisco, Portland, and Vancouver are known to be well-traveled by commuters riding bikes to-and-from work, which surely makes up a considerable portion of Road Bike and Touring Bike purchases.
+    2. PNW cities like San Francisco, Portland, and Vancouver are known to be well-traveled by commuters riding bikes to-and-from work, which surely makes up a considerable portion of Road Bike and Touring Bike purchases.
 
     3. The Seattle to Portland (STP) Bicycle Classic is one of the largest recreational bike rides in the country. Each year, thousands of riders participate in this multi-day event. With 77% of our customers in the PNW, the STP poses a potential partnership opportunity, or at the very least, viable inspiration for advertisements.
 
