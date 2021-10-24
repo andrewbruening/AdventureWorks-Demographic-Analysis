@@ -1,7 +1,3 @@
-# AdventureWorks-Demographic-Analysis
-
-
-
 ### Hey! I'm Andrew. Welcome to my [Github] 👋
 
 - 📊 Data visualization is my forte. See my [Tableau] page! 
@@ -9,7 +5,7 @@
 - 🧠 I'm interested in how our social climate and media trends influence marketing needs
 - ⛳ A nice quote: "If it's worth doing, it's worth doing well"
 
-## Adventure Works Cycles
+## Adventure Works Cycles: Demographic Analysis
 **AdventureWorks is a Microsoft product sample for an online transaction processing (OLTP) [database].**
  
 ![](Dashboard_Screenshots/dash.png)
