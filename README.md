@@ -60,6 +60,8 @@ This readme includes various screenshots, but you can view the actual dashboard 
 
 This was an earlier project of mine. If I were to approach this project with the experience that I have now, the main difference I'd make in my actions is with the dashboard design. There are a number of ways I could go about making it more intuitive, organized, and aesthetically pleasing. For example, it would be beneficial to add separate dashboard pages or show/hide buttons to reduce clutter. 
 
+Overall, I enjoy the monochrome color palette and the variety of graphs/charts that I included. Although, I have noticed that the most successful dashboards are the easiest to digest. My visualizations are easy to read, but the arrangement isn't the most ergonomic.
+
 ## See the complete interactive dashboard [here]
 
 </details>
