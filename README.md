@@ -62,6 +62,8 @@ This was an earlier project of mine. If I were to approach this project with the
 
 I've noticed that the most successful dashboards are the easiest to digest. Overall, I enjoy the monochrome color palette and the variety of graphs/charts that I included.  Marketing/BI analysts should have no problems using my dashboard. But looking back, I've realized that I've gained plenty of experience since working on this. It's been a refreshing way to take note of what I should do differently next time around.
 
+I may revisit this in the future! If I do, I'll include before and after images.
+
 ## See the complete interactive dashboard [here]
 
 </details>
