@@ -9,12 +9,11 @@
 - 🧠 I'm interested in how our social climate and media trends influence marketing needs
 - ⛳ A nice quote: "If it's worth doing, it's worth doing well"
 
-## Wide World Importers
-**WWI is a wholesale novelty goods importer and distributor operating from the San Francisco bay area**
+## Adventure Works Cycles
+**AdventureWorks is a Microsoft product sample for an online transaction processing (OLTP) [database].**
  
 ![](Dashboard_Screenshots/dash.png)
- Here's a link to the SQL [database] from Microsoft
-
+ 
 This readme includes various screenshots, but you can view the actual dashboard [here]
 
 
