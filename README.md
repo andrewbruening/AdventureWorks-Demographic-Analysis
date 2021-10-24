@@ -56,6 +56,10 @@ This readme includes various screenshots, but you can view the actual dashboard 
 
 • Families may be interested in deals that include travel bike racks and group purchases.
 
+## In Hindsight
+
+This was an earlier project of mine. If I were to approach this project with the experience that I have now, the main difference I'd make in my actions is with the dashboard design. There are a number of ways I could go about making it more intuitive, organized, and aesthetically pleasing. For example, it would be beneficial to add separate dashboard pages or show/hide buttons to reduce clutter. 
+
 ## See the complete interactive dashboard [here]
 
 </details>
